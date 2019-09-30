@@ -8,7 +8,7 @@ Tuts on Github:
     - Linux: https://www.atlassian.com/git/tutorials/install-git#linux
     - Mac OS X: https://www.atlassian.com/git/tutorials/install-git#mac-os-x
  - Isssues: https://guides.github.com/features/issues/
- - Puill Requests: https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github
+ - Pull Requests: https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github
  
  Look at the issue tracker and choose an issue to work with.
  Happy Hacking!
