@@ -46,3 +46,4 @@ If anyone wants to add a new programming language, feel free to open a new issue
 14. [Kotlin](kotlin)
 15. [Perl](perl)
 16. [Rust](rust)
+17. [Haskell](Haskell)
