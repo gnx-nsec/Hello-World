@@ -47,3 +47,4 @@ If anyone wants to add a new programming language, feel free to open a new issue
 15. [Perl](perl)
 16. [Rust](rust)
 17. [Haskell](Haskell)
+18. [Assembly](Assembly)
